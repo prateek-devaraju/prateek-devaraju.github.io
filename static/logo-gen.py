@@ -12,10 +12,8 @@ def get_c(m, x, y):
 
 if __name__ == "__main__":
     
-    # top_limit = 30.3
-    # bottom_limit = 61
-    top_limit = 10
-    bottom_limit = 30
+    top_limit = 30.3
+    bottom_limit = 61
     left_limit = 25.5417
     right_limit = 53.6917
     top_crest_width = 5
