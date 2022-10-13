@@ -1,16 +1,16 @@
 module.exports = {
-  siteTitle: 'Abhishek Gupta | Technical Analyst',
+  siteTitle: 'Prateek Devaraju | Namma Hero',
   siteDescription:
-    'I\'m a Technical Analyst based in Bangalore specializing in Planning aspects of Supply Chain tools, Relational Databases and Automations.',
+    'Future ITC Marketing Head',
   siteKeywords:
     'Abhishek Gupta, Abhishek, Gupta, abhishek-gupta, Technical Analyst, big data engineer, jda software, pesit',
   siteUrl: 'https://prateek-devaraju.github.io',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'todo',
   googleVerification: 'todo',
-  name: 'Abhishek Gupta',
+  name: 'Prateek Devaraju',
   location: 'Bangalore, India',
-  email: 'abhishek.gupta0724@gmail.com',
+  email: 'pratheek.devraj@gmail.com',
   github: 'https://github.com/prateek-devaraju',
   twitterHandle: '@abhishek070795',
   socialMedia: [

@@ -12,8 +12,10 @@ def get_c(m, x, y):
 
 if __name__ == "__main__":
     
-    top_limit = 30.3
-    bottom_limit = 61
+    # top_limit = 30.3
+    # bottom_limit = 61
+    top_limit = 10
+    bottom_limit = 30
     left_limit = 25.5417
     right_limit = 53.6917
     top_crest_width = 5
@@ -21,25 +23,26 @@ if __name__ == "__main__":
     dash_thickness = 5
     gap = 1
     dash_height = 9
+    
     bottom_left = [left_limit, bottom_limit]
-
     bottom_right = [right_limit, bottom_limit]
+    
     top_center = [(left_limit + right_limit) / 2, top_limit]
 
     top_left = [top_center[0]-top_crest_width/2, top_limit]
     top_right = [top_center[0]+top_crest_width/2, top_limit]
 
     left_leg = [bottom_left[0] + thickness, bottom_left[1]]
+    right_leg = [bottom_right[0] - thickness, bottom_right[1]]
 
     left_slope = get_slope(*bottom_left, *top_left)
+    right_slope = get_slope(*bottom_right, *top_right)
+    
     left_c = get_c(left_slope, *left_leg)
-
+    right_c = get_c(right_slope, *right_leg)
+    
     temp_y1 = left_leg[1] - dash_height
     dash_left = [get_x_cord(temp_y1, left_slope, left_c), temp_y1]
-
-    right_leg = [bottom_right[0] - thickness, bottom_right[1]]
-    right_slope = get_slope(*bottom_right, *top_right)
-    right_c = get_c(right_slope, *right_leg)
 
     temp_y1 = right_leg[1] - dash_height
     dash_right = [get_x_cord(temp_y1, right_slope, right_c), temp_y1]
