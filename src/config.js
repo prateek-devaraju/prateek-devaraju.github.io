@@ -1,9 +1,9 @@
 module.exports = {
-  siteTitle: 'Prateek Devaraju | Namma Hero',
+  siteTitle: 'Prateek Devaraju',
   siteDescription:
     'Future ITC Marketing Head',
   siteKeywords:
-    'Abhishek Gupta, Abhishek, Gupta, abhishek-gupta, Technical Analyst, big data engineer, jda software, pesit',
+    'Prateek Devaraju, Prateek, Devaraju, Prateek-Devaraju, Sales Consultant, Marketing, Aston University, MBA',
   siteUrl: 'https://prateek-devaraju.github.io',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'todo',
@@ -12,7 +12,7 @@ module.exports = {
   location: 'Bangalore, India',
   email: 'pratheek.devraj@gmail.com',
   github: 'https://github.com/prateek-devaraju',
-  twitterHandle: '@abhishek070795',
+  twitterHandle: '@prateekdevraj02',
   socialMedia: [
     {
       name: 'GitHub',
@@ -20,15 +20,15 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/abhishek_xavi',
+      url: 'https://www.instagram.com/iamprateekdevraj/',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/abhishek-gupta-863a00aa/',
+      url: 'https://www.linkedin.com/in/prateekdevaraju/',
     },
     {
       name: 'Twitter',
-      url: 'https://www.twitter.com/abhishek070795',
+      url: 'https://twitter.com/prateekdevraj02',
     },
   ],
 

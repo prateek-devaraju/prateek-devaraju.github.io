@@ -1,9 +1,8 @@
 ---
 title: 'Hi, my name is'
-name: 'Abhishek Gupta'
-subtitle: 'I love solving challenging problems.'
+name: 'Prateek Devaraju'
+subtitle: 'Driven by Results: A Sales Professional's Portfolio.'
 buttonText: 'Get In Touch'
 ---
 
-I'm a student at Lancaster University currently pursuing my Masters in Data Science.
-Previously, I have interned as a Data Scientist in the field of Natural Language Processing. Prior to that, I have specialized in planning aspects of Supply Chain tools, Relational Databases and Automations.
+Hi, I'm a current student of Masters in Business Administration at Aston University, I am constantly seeking opportunities to expand my knowledge and skills. My previous experience as a Senior Sales Consultant in public funding and private equity, as well as my expertise in SaaS Sales for a system integrator, have equipped me with a strong understanding of the business world and a proven track record of success. I am excited to share my experiences and insights on my website portfolio
