@@ -79,7 +79,7 @@ const StyledTechList = styled.ul`
     font-family: ${fonts.SFMono};
     font-size: ${fontSizes.smish};
     color: ${colors.slate};
-    margin-right: ${theme.margin};
+    margin-left: ${theme.margin};
     margin-bottom: 7px;
     white-space: nowrap;
     &:last-of-type {
@@ -216,7 +216,7 @@ const Featured = ({ data }) => {
 
   return (
     <StyledContainer id="projects">
-      <Heading ref={revealTitle}>Some Things I&apos;ve Built</Heading>
+      <Heading ref={revealTitle}>My Achivements</Heading>
 
       <div>
         {featuredProjects &&
@@ -227,7 +227,7 @@ const Featured = ({ data }) => {
             return (
               <StyledProject key={i} ref={el => (revealProjects.current[i] = el)}>
                 <StyledContent>
-                  <StyledLabel>Featured Project</StyledLabel>
+                  <StyledLabel></StyledLabel>
                   <StyledProjectName>
                     {external ? (
                       <a
