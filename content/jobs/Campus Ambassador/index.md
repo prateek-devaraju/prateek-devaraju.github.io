@@ -5,7 +5,7 @@ company: 'Aston University'
 location: 'Birmingham, United Kingdom'
 navbar: 'Aston University'
 range: 'Feb 2023 - Present'
-url: 'https://www.aston.ac.uk/
+url: 'https://www.aston.ac.uk/'
 ---
 
 - Successfully represented Aston University at various on-campus and off-campus events, including open days, student fairs, and recruitment drives, resulting in an increased number of prospective students and applicants.
