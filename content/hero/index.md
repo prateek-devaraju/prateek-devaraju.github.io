@@ -5,4 +5,4 @@ subtitle: "Driven by Results: A Sales Professional's Portfolio."
 buttonText: "Get In Touch"
 ---
 
-Hi, I'm a current student of Masters in Business Administration at Aston University, I am constantly seeking opportunities to expand my knowledge and skills. My previous experience as a Senior Sales Consultant in public funding and private equity, as well as my expertise in SaaS Sales for a system integrator, have equipped me with a strong understanding of the business world and a proven track record of success. I am excited to share my experiences and insights on my website portfolio
+Hi, I'm a current student of Masters in Business Administration at Aston University, I am constantly seeking opportunities to expand my knowledge and skills. My previous roles as Senior Sales Consultant at Alien Technology Transfer, where I helped clients secure public funding and private equity, and as Product Sales Consultant at Magnum Networks, where I led partnerships in the technology sector, equipped me with a proven track record of exceeding revenue goals. I am excited to share my experiences and insights on my website portfolio
