@@ -8,13 +8,10 @@ range: 'May 2020 - July 2022'
 url: 'https://www.alientt.com'
 ---
 
-- Secured 100 new SME’s by utilizing cold calling, LinkedIn Sales Navigator, Lusha and Hunter tools, resulting in a 123% increase in total customer acquisition within a year.
-- Nurtured relationships with 7 Venture Capitalists, presenting tailored services and qualifying startups for investment under their portfolio, which increased client sales to 60% over 2 years.
-- Conducted market research by analysing their competitor analysis, financial statements, identifying their consumer segments, stakeholder analysis, and market constraints; 
-- Presented detailed feedback on the project analyses to C-level executives, driving successful negotiations and securing contractual & pricing terms for the onboarding process with 90% efficiency for the Innovate UK and European Innovation Council grant schemes.
-- Proficient in using Hubspot CRM to manage sales pipeline and customer interactions.
-- Devised business strategies to strengthen customer relations, achieving an 89% retaining rate over the expiration of existing agreements.
-- Collaborated with Indeep Artificial Intelligence, a subsidiary of Alien Technology, to sell Odoo SaaS to existing clients of Alien Technology, resulting in increased revenue and customer satisfaction.
-- Conducted product demonstrations and gathered detailed technical requirements to define the scope and specifications of the Odoo software implementation, ensuring a seamless delivery and implementation process.
+- Strategically secured over 100 new SMEs across the EU and UK through successful cold calling campaigns, leveraging tools such as LinkedIn Sales Navigator, Lusha, and Hunter for lead generation. This effort resulted in substantial growth in new business development and lead generation.
+- Cultivated relationships with 7 Venture Capitalists, delivering tailored service presentations and meticulously qualifying SMEs for investment within their portfolios. This initiative led to a remarkable 60% increase in client sales over a span of 2 years, highlighting adept business-to-business (B2B) relationship management and the formation of strategic partnerships.
+- Conducted comprehensive market research encompassing competitor analysis, financial statement examination, consumer segment identification, stakeholder analysis, and market constraint evaluation. The insights gleaned from this research provided invaluable perspectives for business analysis.
+- Presented intricate project analysis feedback to C-level executives, facilitating successful negotiations and securing favorable contractual and pricing terms during the onboarding process for Innovate UK and EIC Accelerator applications. This accomplishment underscored exceptional business analysis skills and strategic partnership prowess.
+- Proficiently managed the sales pipeline and customer interactions utilizing HubSpot CRM, showcasing adept sales operations management techniques.
 
 
