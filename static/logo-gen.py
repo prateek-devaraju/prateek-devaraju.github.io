@@ -12,15 +12,16 @@ def get_c(m, x, y):
 
 if __name__ == "__main__":
     
-    top_limit = 30.3
-    bottom_limit = 61
-    left_limit = 25.5417
-    right_limit = 53.6917
-    top_crest_width = 5
-    thickness = 5
-    dash_thickness = 5
-    gap = 1
-    dash_height = 9
+    # Updated coordinates for a more balanced 'P'
+    top_limit = 25
+    bottom_limit = 65
+    left_limit = 20
+    right_limit = 60
+    top_crest_width = 8
+    thickness = 6
+    dash_thickness = 6
+    gap = 2
+    dash_height = 12
     
     bottom_left = [left_limit, bottom_limit]
     bottom_right = [right_limit, bottom_limit]
